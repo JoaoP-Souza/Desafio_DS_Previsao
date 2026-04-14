@@ -278,9 +278,10 @@ Também é importante demonstrar onde o modelo erra mais, identificando pontos d
 
 Storytelling para áreas de negócio:
 
-Demonstrar qual problçema da área de negócios o modelo resolve. 
+Demonstrar qual problema da área de negócios o modelo resolve. 
 
-"Hoje a precificação depende muito de análise manual ou comparação limitada.
+"Hoje a precificação
+o depende muito de análise manual ou comparação limitada.
 Com o modelo, passamos a ter uma estimativa automática baseada em milhares de imóveis históricos e dados regionais.
 Isso permite decisões mais rápidas, padronizadas e escaláveis."
 
