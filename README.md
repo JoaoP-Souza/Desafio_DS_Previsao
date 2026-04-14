@@ -147,7 +147,7 @@ Usuário → Frontend → API REST → Pré-processamento → Modelo XGBoost →
                            ↓
           Base nova para re-treinamento
 ```
-
+O diagrama real criado para ilustrar a solução pode ser visualizado no arquivo "Diagrama_modelo_ML.png"
 ---
 
 ### Usuário
