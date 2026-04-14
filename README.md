@@ -257,12 +257,12 @@ Além disso, cada versão publicada deve ser registrada com informações como d
 
 
 -------------------------------
-5. Comunicação com Stakeholders
+## 5. Comunicação com Stakeholders
 -------------------------------
 
 A apresentação dos resultados seria focada em linguagem simples, visual, demonstrando o valor da solução. demonstrando a eficácia do modelo, a precisão obtida e como isso poderia ajudar no negócio.
 
-Exemplo:
+ #Exemplo:
 "Foi desenvolvido um modelo capaz de estimar preços de imóveis com aproximadamente 90% de explicação da variação dos valores observados (R² = 0.89), utilizando dados físicos e demográficos. A solução pode apoiar precificação, análise de mercado e tomada de decisão comercial."
 
 
@@ -276,7 +276,7 @@ O Gráfico de dispersão mostrando o quanto as previsões se aproximam dos valor
 Também é importante demonstrar onde o modelo erra mais, identificando pontos de melhoria para versões futuras.
 
 
-Storytelling para áreas de negócio:
+# Storytelling para áreas de negócio:
 
 Demonstrar qual problema da área de negócios o modelo resolve. 
 
@@ -285,7 +285,7 @@ o depende muito de análise manual ou comparação limitada.
 Com o modelo, passamos a ter uma estimativa automática baseada em milhares de imóveis históricos e dados regionais.
 Isso permite decisões mais rápidas, padronizadas e escaláveis."
 
-Dar exemplos de aplicações práticas onde a solução poderia ser implementada:
+# Dar exemplos de aplicações práticas onde a solução poderia ser implementada:
 
 apoio à definição de preço de venda.
 triagem de imóveis subavaliados ou superavaliados.
